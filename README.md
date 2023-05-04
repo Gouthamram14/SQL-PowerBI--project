@@ -10,3 +10,4 @@ Data Visualization - PowerBI
 
 ---------------------------------------------------
 ## Fianl Dashboard
+![image](https://user-images.githubusercontent.com/127017909/236206256-55c32cd8-73a3-4358-b7e8-a56a10e57f17.png)
